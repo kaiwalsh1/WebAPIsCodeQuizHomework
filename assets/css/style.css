@@ -1,4 +1,13 @@
+#start {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
 
 h1 {
     text-align: center;
+}
+
+.hidden {
+    display: none;
 }
