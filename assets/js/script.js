@@ -1,7 +1,7 @@
 var counter = 0;
 var timer = document.getElementById("timer");
-var startingTime = 20;
-var score = 0;
+var startingTime = 15;
+var score = '0';
 var inputScore = document.getElementById('inputScore');
 var saveBtn = document.getElementById('saveBtn');
 var ul = document.getElementById('ul');
@@ -112,16 +112,5 @@ saveBtn.addEventListener("click", function(){
     localStorage.setItem('highScores', JSON.stringify(highScores));
 }); 
 
-
-/* 
-add event listener to whole ul
-    todoList.addEventListener("click", function(event){
-        var element
-    })
-
-*/
-
-// Submit event on the form
-//  formEl.on('submit', handleFormSubmit);
 
 
