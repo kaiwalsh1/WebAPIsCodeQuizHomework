@@ -36,3 +36,5 @@ Installation
 ## Usage
 ![deployedApplication](./assets/images/deployedApplication.png)
 
+Link to Deployed Application (https://kaiwalsh1.github.io/WebAPIsCodeQuizHomework/)
+Link to GitHub Repository (https://github.com/kaiwalsh1/WebAPIsCodeQuizHomework)
