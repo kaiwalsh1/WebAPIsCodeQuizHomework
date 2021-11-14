@@ -29,8 +29,5 @@ Contributors
 Installation
 
 ## Usage
-Used bootstrap to create webpage.
-![kaiLogo](./assets/images/kailogo.png)
-![kaiHeadshot](./assets/images/kaiheadshot.jpg)
-![quLogo](./assets/images/PRIDE_QU_LOGO.png)
-![DeployedApplication](./assets/images/deployedApplication.png)
+
+<!-- ![kaiLogo](./assets/images/kailogo.png) -->
